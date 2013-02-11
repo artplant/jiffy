@@ -3,5 +3,6 @@
 *.beam
 *.o
 *.so
+*.dll
 .eunit
 deps
